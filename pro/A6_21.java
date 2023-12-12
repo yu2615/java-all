@@ -1,0 +1,1 @@
+public class A6_21 {}

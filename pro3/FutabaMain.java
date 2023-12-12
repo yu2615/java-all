@@ -1,0 +1,6 @@
+public class FutabaMain {
+	public static void main (String[] args) {
+		Node root = new Branch (new Leaf("ç∂"), new Leaf("âE"));
+		root.print();
+	}
+}
